@@ -1,1 +1,1 @@
-# mmad2026.github.io
+# Multimodal Anomaly Detection Workshop
