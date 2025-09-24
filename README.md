@@ -1,1 +1,1 @@
-# Multimodal Anomaly Detection Workshop
+# Multimodal Anomaly Detection Workshop 2026
