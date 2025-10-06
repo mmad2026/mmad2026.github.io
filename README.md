@@ -1,1 +1,1 @@
-# Multimodal Anomaly Detection Workshop 2026
+bundle exec jekyll serve
