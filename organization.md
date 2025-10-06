@@ -70,6 +70,8 @@ title: Organization
         }
 </style>
 
+<h1>Organization</h1>
+
 <div class="profile-container">
     <img src="assets/img/photos/kevin.png" alt="Miguel Profile picture" class="profile-image">
     <div class="profile-info">
