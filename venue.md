@@ -3,6 +3,8 @@ layout: post
 title: Venue
 ---
 
+<h1>Venue</h1>
+
 MMAD workshop will take place at AAU Innovation in Aalborg (<a href="https://maps.app.goo.gl/x2AACAbwYQsK4Lqi9" target="_blank">Thomas Manns Vej 25, 9220 Aalborg Øst</a>).
 
 <h3>How to get there?</h3>

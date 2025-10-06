@@ -2,6 +2,7 @@
 layout: post
 title: Sponsors
 ---
+<h1>Sponsors</h1>
 
 <!-- Logos. Aalborg, DTU -->
 
