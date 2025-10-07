@@ -90,12 +90,14 @@ title: Organization
     <div class="profile-info">
         <h2 class="profile-name">Neelu Madan</h2>
         <p class="profile-affiliation">Postdoctoral Researcher, Aalborg University</p>
+        <!--
         <p class="profile-links">
             <a href=""><img src="assets/img/email.png"></a>
             <a href=""><img src="assets/img/globe.png"></a>
             <a href=""><img src="assets/img/googlescholar.png"></a>
             <a href=""><img src="assets/img/github.png"></a>
         </p>
+        -->
     </div>
 </div>
 
