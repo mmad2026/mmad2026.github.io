@@ -78,10 +78,9 @@ title: Organization
         <h2 class="profile-name">Kevin Wilkinghoff</h2>
         <p class="profile-affiliation">Postdoctoral Researcher, Aalborg University</p>
         <p class="profile-links">
-            <a href=""><img src="assets/img/email.png"></a>
-            <a href=""><img src="assets/img/globe.png"></a>
-            <a href=""><img src="assets/img/googlescholar.png"></a>
-            <a href=""><img src="assets/img/github.png"></a>
+            <a href="mailto:kevin.wilkinghoff@ieee.org"><img src="assets/img/email.png"></a>
+            <a href="https://wilkinghoff.com"><img src="assets/img/globe.png"></a>
+            <a href="https://scholar.google.de/citations?user=UKE_q8wAAAAJ&hl=en"><img src="assets/img/googlescholar.png"></a>
         </p>
     </div>
 </div>
@@ -106,10 +105,10 @@ title: Organization
         <h2 class="profile-name">J. Miguel Valverde</h2>
         <p class="profile-affiliation">Postdoctoral Researcher, DTU Compute</p>
         <p class="profile-links">
-            <a href=""><img src="assets/img/email.png"></a>
-            <a href=""><img src="assets/img/globe.png"></a>
-            <a href=""><img src="assets/img/googlescholar.png"></a>
-            <a href=""><img src="assets/img/github.png"></a>
+            <a href="mailto:jmvma@dtu.dk"><img src="assets/img/email.png"></a>
+            <a href="https://jmlipman.github.io/"><img src="assets/img/globe.png"></a>
+            <a href="https://scholar.google.com/citations?user=OPH9yeIAAAAJ&hl=en"><img src="assets/img/googlescholar.png"></a>
+            <a href="https://github.com/jmlipman/"><img src="assets/img/github.png"></a>
         </p>
     </div>
 </div>
