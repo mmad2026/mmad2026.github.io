@@ -73,7 +73,7 @@ title: Organization
 <h1>Organization</h1>
 
 <div class="profile-container">
-    <img src="assets/img/photos/kevin.png" alt="Miguel Profile picture" class="profile-image">
+    <img src="assets/img/photos/kevin.png" alt="Kevin Profile picture" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Kevin Wilkinghoff</h2>
         <p class="profile-affiliation">Postdoctoral Researcher, Aalborg University</p>
@@ -86,18 +86,13 @@ title: Organization
 </div>
 
 <div class="profile-container">
-    <img src="assets/img/photos/neelu.png" alt="Miguel Profile picture" class="profile-image">
+    <img src="assets/img/photos/neelu.png" alt="Neelu Profile picture" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Neelu Madan</h2>
         <p class="profile-affiliation">Postdoctoral Researcher, Aalborg University</p>
-        <!--
         <p class="profile-links">
-            <a href=""><img src="assets/img/email.png"></a>
-            <a href=""><img src="assets/img/globe.png"></a>
-            <a href=""><img src="assets/img/googlescholar.png"></a>
-            <a href=""><img src="assets/img/github.png"></a>
+            <a href="https://scholar.google.com/citations?user=tIn34swAAAAJ&hl=en"><img src="assets/img/googlescholar.png"></a>
         </p>
-        -->
     </div>
 </div>
 
