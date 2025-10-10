@@ -6,6 +6,9 @@ extra-subtitle: February 2, 2026 <span class="d-none d-md-inline middot">&middot
 cover-img: /assets/img/aalborg.jpg
 ---
 
+<font color="red">Travel grants for early-stage researchers are <a href="travelgrants">available</a></font>.
+
+
 Anomaly detection is highly important in many machine learning-driven fields, yet developing mostly independently for different data modalities such as audio, EEG signals, images, text, videos or time-series in general.
 This workshop aims at bringing together experts in anomaly detection from different communities and at promoting joint research activities of its members.
 
