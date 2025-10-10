@@ -5,7 +5,7 @@ title: Grants
 
 <h1>Travel grants</h1>
 
-To support the participation of international early-stage researchers (including postdocs), our workshop is pleased to offer a limited number of travel grants. Applicants are required to submit the following materials:
+To support the participation of international (outside Denmark) early-stage researchers (including postdocs), our workshop is pleased to offer a limited number of travel grants. Applicants are required to submit the following materials:
 
 <ul>
 <li>Poster Abstract: A title and short abstract for a poster that you will present at the workshop.</li>
