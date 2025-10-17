@@ -28,6 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 navbar-links:
   Registration: "registration"
+  Travel grants: "travelgrants"
   Program: "program"
   Venue: "venue"
   Organization: "organization"
