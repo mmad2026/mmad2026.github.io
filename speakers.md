@@ -58,6 +58,7 @@ title: Speakers
             color: #555;
             line-height: 1.5;
             text-align: justify;
+            margin: 0;
         }
         .talk-title {
             font-weight: bold;
