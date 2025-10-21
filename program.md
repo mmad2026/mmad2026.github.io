@@ -10,6 +10,7 @@ title: Program
         /*width: 500px;*/
         border-collapse: collapse;
         font-family: Arial, sans-serif;
+        margin: 0 auto;
     }
 
     .schedule-table th {
