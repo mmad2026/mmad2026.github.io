@@ -16,6 +16,7 @@ title: Speakers
         padding: 20px;
         vertical-align: top;
         border-bottom: 1px solid #e0e0e0;
+        font-size:16px;
     }
 
     .speaker-image {
@@ -28,6 +29,7 @@ title: Speakers
         height: 200px;
         border-radius: 50%;
         object-fit: cover;
+        max-width: None;
     }
 
     .speaker-name {
