@@ -7,9 +7,10 @@ title: Program
 
 <style>
     .schedule-table {
-        width: 500px;
+        /*width: 500px;*/
         border-collapse: collapse;
         font-family: Arial, sans-serif;
+        font-size: 15px;
     }
 
     .schedule-table th {
