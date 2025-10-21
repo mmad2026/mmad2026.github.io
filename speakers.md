@@ -8,7 +8,6 @@ title: Speakers
             display: flex;
             align-items: flex-start;
             gap: 30px;
-            max-width: 800px;
             margin: 20px auto;
             padding: 20px;
             font-family: Arial, sans-serif;
@@ -64,6 +63,7 @@ title: Speakers
             font-weight: bold;
             margin-bottom: 8px;
             font-size: 18px;
+            margin: 10px 0;
         }
 
         /* Responsive design for mobile */
@@ -90,6 +90,18 @@ title: Speakers
         <p class="talk-title">Scalable real-time abnormal event detection</p>
         <p class="talk-summary">
 State-of-the-art video anomaly detectors typically rely on a costly object detection method to increase precision, limiting the processing bandwidth to one video stream per GPU, at around 20-30 FPS. However, for real-world video surveillance, e.g. monitoring an entire city with hundreds or thousands of cameras, the processing costs of object-centric video anomaly detectors are simply too high, given their power consumption and the cost of GPUs. To this end, we will present two lightweight models, capable of processing over 60 video streams at 25 FPS, significantly reducing the processing costs. Different from competing models performing anomaly detection at the object or spatio-temporal cube levels, we present models that take whole video frames as input, which is significantly more efficient. The presented models employ several techniques to achieve efficiency, e.g. adversarial knowledge distillation, self-distillation and masked auto-encoders. Comprehensive experiments on four benchmarks show that the presented methods are significantly faster than state-of-the-art methods, while achieving comparable accuracy levels.
+        </p>
+    </div>
+</div>
+
+<div class="profile-container">
+    <img src="assets/img/photos/wenwu.png" alt="Wenwu" class="profile-image">
+    <div class="profile-info">
+        <h2 class="profile-name">Wenwu Wang <a href="https://personalpages.surrey.ac.uk/w.wang/"><img src="assets/img/globe.png" class="link"></a></h2>
+        <p class="profile-affiliation">Professor, University of Surrey (United Kingdom)</p>
+        <p class="talk-title">Anomalous Sound Detection</p>
+        <p class="talk-summary">
+Anomalous Sound Detection (ASD) is a vital research field aimed at identifying abnormal or unexpected sounds in acoustic environments, often without prior knowledge of the anomalies themselves. It has broad applications in areas such as industrial monitoring, surveillance, healthcare, and environmental sensing, where early detection of unusual sounds can indicate equipment malfunctions, safety risks, or other critical events. ASD systems typically learn the characteristics of normal acoustic patterns and detect deviations from these patterns using signal processing and machine learning methods. In this talk, we will explore recent advances in anomalous sound detection, highlighting key challenges, emerging techniques, and future research opportunities. We will also present our latest work on contrastive, self-supervised, and statistical approaches designed to enhance robustness, domain generalization, and anomaly sensitivity across noisy, domain-shifted, and machine-specific industrial datasets.
         </p>
     </div>
 </div>
