@@ -3,117 +3,94 @@ layout: post
 title: Speakers
 ---
 
+<style>
+        .profile-container {
+            display: flex;
+            align-items: flex-start;
+            gap: 30px;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        .profile-image {
+            width: 300px;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .profile-info {
+            flex: 1;
+        }
+
+        .profile-name {
+            font-weight: bold;
+            font-size: 1.5em;
+            margin: 0 0 8px 0;
+            color: #333;
+        }
+
+        .profile-links {
+            font-style: italic;
+            font-size: 1.1em;
+            margin: 0 0 15px 0;
+        }
+
+        img.link {
+            width:20px;
+        }
+
+        .profile-affiliation {
+            font-style: italic;
+            color: #666;
+            margin: 0;
+            font-size: 1.1em;
+        }
+
+        .profile-bio {
+            line-height: 1.6;
+            color: #444;
+            margin: 0;
+        }
+        .talk-summary {
+            color: #555;
+            line-height: 1.5;
+            text-align: justify;
+        }
+        .talk-title {
+            font-weight: bold;
+            margin-bottom: 8px;
+            font-size: 18px;
+        }
+
+        /* Responsive design for mobile */
+        @media (max-width: 600px) {
+            .profile-container {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .profile-image {
+                width: 150px;
+                height: 150px;
+            }
+        }
+</style>
+
 <h1>Speakers</h1>
 
-<style>
-    .speakers-table {
-        width: 100%;
-        border-collapse: collapse;
-        font-family: Arial, sans-serif;
-    }
+<div class="profile-container">
+    <img src="assets/img/photos/radu.png" alt="Radu" class="profile-image">
+    <div class="profile-info">
+        <h2 class="profile-name">Radu Ionescu <a href="https://raduionescu.herokuapp.com"><img src="assets/img/globe.png" class="link"></a></h2>
+        <p class="profile-affiliation">Professor, University of Bucharest (Romania)</p>
+        <p class="talk-title">Scalable real-time abnormal event detection</p>
+        <p class="talk-summary">
+State-of-the-art video anomaly detectors typically rely on a costly object detection method to increase precision, limiting the processing bandwidth to one video stream per GPU, at around 20-30 FPS. However, for real-world video surveillance, e.g. monitoring an entire city with hundreds or thousands of cameras, the processing costs of object-centric video anomaly detectors are simply too high, given their power consumption and the cost of GPUs. To this end, we will present two lightweight models, capable of processing over 60 video streams at 25 FPS, significantly reducing the processing costs. Different from competing models performing anomaly detection at the object or spatio-temporal cube levels, we present models that take whole video frames as input, which is significantly more efficient. The presented models employ several techniques to achieve efficiency, e.g. adversarial knowledge distillation, self-distillation and masked auto-encoders. Comprehensive experiments on four benchmarks show that the presented methods are significantly faster than state-of-the-art methods, while achieving comparable accuracy levels.
+        </p>
+    </div>
+</div>
 
-    .speakers-table td {
-        padding: 20px;
-        vertical-align: top;
-        border-bottom: 1px solid #e0e0e0;
-        font-size:16px;
-    }
-
-    .speaker-image {
-        width: 120px;
-        padding-right: 20px;
-    }
-
-    .speaker-image img {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        object-fit: cover;
-        max-width: None;
-    }
-
-    .speaker-name {
-        font-size: 1.3rem;
-        font-weight: bold;
-        color: #1a2a6c;
-        margin-bottom: 5px;
-    }
-
-    .speaker-position {
-        color: #b21f1f;
-        font-style: italic;
-        margin-bottom: 10px;
-    }
-
-    .talk-title {
-        font-weight: bold;
-        margin-bottom: 8px;
-    }
-
-    .talk-summary {
-        color: #555;
-        line-height: 1.5;
-    }
-
-    @media (max-width: 768px) {
-        .speaker-image {
-            width: 200px;
-            padding-right: 15px;
-        }
-
-        .speaker-image img {
-            width: 200px;
-            height: 200px;
-        }
-
-        .speakers-table td {
-            padding: 15px 10px;
-        }
-    }
-</style>
-<table class="speakers-table">
-    <tr>
-        <td class="speaker-image">
-            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" alt="Dr. Sarah Johnson">
-        </td>
-        <td>
-            <div class="speaker-name">Dr. Sarah Johnson</div>
-            <div class="speaker-position">Professor of Computer Science, Stanford University</div>
-            <div class="talk-title">Advancements in Multimodal Learning for Anomaly Detection</div>
-            <div class="talk-summary">Dr. Johnson will discuss recent breakthroughs in multimodal learning approaches that combine visual, textual, and auditory data for more accurate anomaly detection.</div>
-        </td>
-    </tr>
-    <tr>
-        <td class="speaker-image">
-            <img src="https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" alt="Dr. Michael Chen">
-        </td>
-        <td>
-            <div class="speaker-name">Dr. Michael Chen</div>
-            <div class="speaker-position">Lead AI Researcher, TechVision Inc.</div>
-            <div class="talk-title">Industrial Applications of Multimodal Anomaly Detection</div>
-            <div class="talk-summary">Dr. Chen will present real-world case studies where multimodal anomaly detection has transformed quality control processes in manufacturing.</div>
-        </td>
-    </tr>
-    <tr>
-        <td class="speaker-image">
-            <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" alt="Dr. Robert Kim">
-        </td>
-        <td>
-            <div class="speaker-name">Dr. Robert Kim</div>
-            <div class="speaker-position">Chief Medical Officer, HealthAI Diagnostics</div>
-            <div class="talk-title">Multimodal Approaches in Medical Anomaly Detection</div>
-            <div class="talk-summary">Dr. Kim will explore how combining medical imaging, electronic health records, and genomic data can improve early detection of diseases.</div>
-        </td>
-    </tr>
-    <tr>
-        <td class="speaker-image">
-            <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" alt="Dr. Elena Rodriguez">
-        </td>
-        <td>
-            <div class="speaker-name">Dr. Elena Rodriguez</div>
-            <div class="speaker-position">Research Director, MIT Media Lab</div>
-            <div class="talk-title">Cross-Modal Transfer Learning for Anomaly Detection</div>
-            <div class="talk-summary">Dr. Rodriguez will present her groundbreaking research on cross-modal transfer learning, where knowledge from data-rich modalities can boost performance in data-scarce modalities.</div>
-        </td>
-    </tr>
-</table>
