@@ -10,7 +10,6 @@ title: Program
         /*width: 500px;*/
         border-collapse: collapse;
         font-family: Arial, sans-serif;
-        font-size: 15px;
     }
 
     .schedule-table th {
@@ -24,7 +23,8 @@ title: Program
     .schedule-table td {
         padding: 12px;
         border-bottom: 1px solid #ddd;
-        vertical-align: center;
+        /*vertical-align: center;*/
+        font-size: 15px;
     }
 
     .time-cell {
