@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MMAD 2026
-subtitle: Multi Modal Anomaly Detection Workshop 2026
+subtitle: Multimodal Anomaly Detection Workshop 2026
 extra-subtitle: February 2, 2026 <span class="d-none d-md-inline middot">&middot;</span> Aalborg, Denmark
 cover-img: /assets/img/aalborg.jpg
 ---

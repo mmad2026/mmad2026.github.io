@@ -16,3 +16,5 @@ To support the participation of international (outside Denmark) early-stage rese
 Selection will be based on the relevance, as well as the applicant's overall profile.
 
 Details on how to submit the title, short abstract, CV and letter of support will be provided soon.
+
+<b>There will be no workshop proceedings and no peer-review. Presenters may choose to present work in progress or posters presented at other conferences.</b>
