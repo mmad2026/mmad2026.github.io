@@ -120,7 +120,7 @@ Anomalous Sound Detection (ASD) is a vital research field aimed at identifying a
 </div>
 
 <div class="profile-container">
-    <img src="assets/img/photos/zhenghua.jpg" alt="Zheng-Hua" class="profile-image">
+    <img src="assets/img/photos/zhenghua.png" alt="Zheng-Hua" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Zheng-Hua Tan <a href="https://zhenghuatan.es.aau.dk"><img src="assets/img/globe.png" class="link"></a></h2>
         <p class="profile-affiliation">Professor, Aalborg University (Denmark)</p>

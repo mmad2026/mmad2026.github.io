@@ -113,7 +113,7 @@ title: Program
         </tr>
         <tr>
             <td class="time-cell">12:00</td>
-            <td class="talk medium-session">Contributed Talk: <i>Detecting adversarial audio in deep speech systems</i> — Zheng-Hua</td>
+            <td class="talk medium-session">Contributed Talk: <i>Detecting adversarial audio in deep speech systems</i> — Zheng-Hua Tan</td>
         </tr>
         <tr>
             <td class="time-cell">12:30</td>
