@@ -109,11 +109,11 @@ title: Program
         </tr>
         <tr>
             <td class="time-cell">11:30</td>
-            <td class="talk medium-session">Contributed Talk: TBA</td>
+            <td class="talk medium-session">Contributed Talk: <i>Anomaly detection and self-explainability of vessel behavior baseed on AIS data<i> — Line Katrine Harder Clemmensen</td>
         </tr>
         <tr>
             <td class="time-cell">12:00</td>
-            <td class="talk medium-session">Contributed Talk: TBA</td>
+            <td class="talk medium-session">Contributed Talk: <i>Detecting adversarial audio in deep speech systems</i> — Zheng-Hua</td>
         </tr>
         <tr>
             <td class="time-cell">12:30</td>

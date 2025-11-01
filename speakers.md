@@ -107,3 +107,27 @@ Anomalous Sound Detection (ASD) is a vital research field aimed at identifying a
     </div>
 </div>
 
+<div class="profile-container">
+    <img src="assets/img/photos/line.jpg" alt="Line" class="profile-image">
+    <div class="profile-info">
+        <h2 class="profile-name">Line Katrine Harder Clemmensen</h2>
+        <p class="profile-affiliation">Professor, University of Copenhagen, Dept. of Mathematical Sciences (Denmark)</p>
+        <p class="talk-title">Anomaly detection and self-explainability of vessel behavior baseed on AIS data</p>
+        <p class="talk-summary">
+        This talk discusses anomaly detection of maritime traffic wiiiht a focus on two case studies: A cable breach in Svalbard and a search and rescue event near Bornholm. We propose a variational autoeencoder approach with self-explainability to understand the normal maritime behaviors, and study trransferability of the learned architecture between regions.
+        </p>
+    </div>
+</div>
+
+<div class="profile-container">
+    <img src="assets/img/photos/zhenghua.jpg" alt="Zheng-Hua" class="profile-image">
+    <div class="profile-info">
+        <h2 class="profile-name">Zheng-Hua Tan <a href="https://zhenghuatan.es.aau.dk"><img src="assets/img/globe.png" class="link"></a></h2>
+        <p class="profile-affiliation">Professor, Aalborg University (Denmark)</p>
+        <p class="talk-title">Detecting adversarial audio in deep speech systems</p>
+        <p class="talk-summary">
+        Deep learning-based speech recognition systems are increasingly deployed in real-world applications, yet they are vulnerable to adversarial attacks, subtle perturbations that mislead models while remaining imperceptible to humans. These attacks compromise user privacy, security, and safety. This talk presents strategies for detecting and defending against adversarial audio in speech systems. We begin by formulating adversarial detection as a classification task by training models on systematically generated datasets of white-box and black-box attacks. We then enhance detection performance by leveraging domain-specific features. Finally, we introduce a training-free approach based on pre-trained diffusion models, which purify adversarial inputs and enable accurate detection. Our findings show that combining supervised learning, feature engineering, and generative models provides robust defenses against adversarial attacks. We hope that these approaches offer a different perspective beyond traditional anomaly detection methods and inspire discussion and adoption of similar methodologies in other tasks.
+        </p>
+    </div>
+</div>
+
