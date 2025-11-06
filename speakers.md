@@ -112,9 +112,9 @@ Anomalous Sound Detection (ASD) is a vital research field aimed at identifying a
     <div class="profile-info">
         <h2 class="profile-name">Line Katrine Harder Clemmensen</h2>
         <p class="profile-affiliation">Professor, University of Copenhagen, Dept. of Mathematical Sciences (Denmark)</p>
-        <p class="talk-title">Anomaly detection and self-explainability of vessel behavior baseed on AIS data</p>
+        <p class="talk-title">Anomaly detection and self-explainability of vessel behavior based on AIS data</p>
         <p class="talk-summary">
-        This talk discusses anomaly detection of maritime traffic wiiiht a focus on two case studies: A cable breach in Svalbard and a search and rescue event near Bornholm. We propose a variational autoeencoder approach with self-explainability to understand the normal maritime behaviors, and study trransferability of the learned architecture between regions.
+        This talk discusses anomaly detection of maritime traffic with a focus on two case studies: A cable breach in Svalbard and a search and rescue event near Bornholm. We propose a variational autoeencoder approach with self-explainability to understand the normal maritime behaviors, and study trransferability of the learned architecture between regions.
         </p>
     </div>
 </div>
