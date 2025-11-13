@@ -121,7 +121,7 @@ title: Program
         </tr>
         <tr>
             <td class="time-cell">13:30</td>
-            <td class="talk medium-session">Contributed Talk: TBA</td>
+            <td class="talk medium-session">Contributed Talk: TBA — Rafal Wisniewski</td>
         </tr>
         <tr>
             <td class="time-cell">14:00</td>
@@ -133,7 +133,7 @@ title: Program
         </tr>
         <tr>
             <td class="time-cell">15:15</td>
-            <td class="keynote medium-session">Keynote Talk: TBA</td>
+            <td class="keynote medium-session">Keynote Talk: <i>Privacy preserving video surveillance and detecting anomalies where it matters most</i> — Kamal Nasrollahi</td>
         </tr>
         <tr>
             <td class="time-cell">16:00</td>

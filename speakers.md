@@ -131,3 +131,15 @@ Anomalous Sound Detection (ASD) is a vital research field aimed at identifying a
     </div>
 </div>
 
+<div class="profile-container">
+    <img src="assets/img/photos/kamal.png" alt="Kamal" class="profile-image">
+    <div class="profile-info">
+        <h2 class="profile-name">Kamal Nasrollahi</h2>
+        <p class="profile-affiliation">Director of Research, Milestones System. Professor, Aalborg University (Denmark)</p>
+        <p class="talk-title">Privacy preserving video surveillance and detecting anomalies where it matters most</p>
+        <p class="talk-summary">
+        The "Harborfront Dataset" contains real-world data collected from the harbor region in the city of Aalborg. The "Long-Term Drift Dataset", proposed by our team at Aalborg University, is designed to study drift in thermal video analysis tasks, i.e., object detection and long-term scene change detection as conditions shift from day to night and across seasons. By capturing only infrared signatures, the dataset preserves human privacy while still providing critical information about activity near the harbor. This makes it highly valuable for detecting potentially life-threatening events, such as drowning or accidental falls into the water. In this context, anomalies are truly high-stakes, where timely detection can save lives. This talk will introduce the Harborfront Dataset and highlight real-world use cases demonstrating the importance of robust anomaly detection in safety-critical environments.
+        </p>
+    </div>
+</div>
+
