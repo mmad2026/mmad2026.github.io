@@ -13,6 +13,8 @@ To support the participation of international (outside Denmark) early-stage rese
 <li>Supervisor's Letter of Support: A short confirmation from your supervisor supporting your application and your attendance at the workshop.</li>
 </ul>
 
+Send a single ZIP file containing those three documents (PDFs) to Miguel (jmvma AT dtu DOT dk). **In addition**, you must indicate in the <a href="registration">registration form</a> that you are applying for the travel grant.
+
 Selection will be based on the relevance, as well as the applicant's overall profile.
 
 Details on how to submit the title, short abstract, CV and letter of support will be provided soon.
