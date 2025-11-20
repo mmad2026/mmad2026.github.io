@@ -6,7 +6,7 @@ extra-subtitle: February 2, 2026 <span class="d-none d-md-inline middot">&middot
 cover-img: /assets/img/aalborg.jpg
 ---
 
-<span style="color:red; text-weight:bold; font-size:16px"> Registration is <a href="registration">open</a></span>
+<span style="color:red; font-weight:bold; font-size:22px"> Registration is <a href="registration">open</a></span>
 
 <font color="red">Travel grants for early-stage researchers are <a href="travelgrants">available</a></font>
 
