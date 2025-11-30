@@ -18,3 +18,5 @@ Send a single ZIP file containing those three documents (PDFs) to Miguel (jmvma 
 Selection will be based on the relevance, as well as the applicant's overall profile.
 
 <b>There will be no workshop proceedings and no peer-review. Presenters may choose to present work in progress or posters presented at other conferences.</b>
+
+The deadline for applying for the travel grant is on the 31st of December, 2025.
