@@ -65,12 +65,13 @@ title: Program
 
         .schedule-table td {
             display: block;
-            width: 100%;
+            /*width: 100%;*/
         }
 
         .time-cell {
             background-color: #3498db;
             color: white;
+            width: 70px;
         }
 
         .short-session, .medium-session, .long-session {
