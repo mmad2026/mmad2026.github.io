@@ -108,6 +108,18 @@ Anomalous Sound Detection (ASD) is a vital research field aimed at identifying a
 </div>
 
 <div class="profile-container">
+    <img src="assets/img/photos/rafal.jpg" alt="Rafal" class="profile-image">
+    <div class="profile-info">
+        <h2 class="profile-name">Rafal Wisniewski</h2>
+        <p class="profile-affiliation">Professor, Aalborg University (Denmark)</p>
+        <p class="talk-title">Manifold learning with autoencoders for subspace-based anomaly detection</p>
+        <p class="talk-summary">
+        We propose a method to learn a manifold representation of data covariance Hankel-like matrices using an autoencoder, and demonstrate its use for fault detection in dynamical systems. The autoencoder is trained in two stages to capture both a low-dimensional latent manifold representation and a complementary representation of Hankel matrices constructed from nominal data. We illustrate that when a Hankel matrix built from test data does not lie on a manifold obtained on data collected from a nominal, reference system, a fault occurs. To detect it, we propose a simple residual which is tested in a classical hypothesis testing framework. For linear systems, this residual is closely related to the classical subspace fault detection residual based on the null space of the Hankel matrix. The performance of the proposed detection scheme is validated on linear and weakly nonlinear mechanical benchmark systems.
+        </p>
+    </div>
+</div>
+
+<div class="profile-container">
     <img src="assets/img/photos/line.jpg" alt="Line" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Line Katrine Harder Clemmensen</h2>

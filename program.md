@@ -109,11 +109,11 @@ title: Program
         </tr>
         <tr>
             <td class="time-cell">11:30</td>
-            <td class="talk medium-session">Contributed Talk: <i>Anomaly detection and self-explainability of vessel behavior based on AIS data</i> — Line Katrine Harder Clemmensen</td>
+            <td class="talk medium-session">Contributed Talk: <i>Manifold learning with autoencoders for subspace-based anomaly detection</i> — Rafal Wisniewski</td>
         </tr>
         <tr>
             <td class="time-cell">12:00</td>
-            <td class="talk medium-session">Contributed Talk: <i>Detecting adversarial audio in deep speech systems</i> — Zheng-Hua Tan</td>
+            <td class="talk medium-session">Contributed Talk: <i>Anomaly detection and self-explainability of vessel behavior based on AIS data</i> — Line Katrine Harder Clemmensen</td>
         </tr>
         <tr>
             <td class="time-cell">12:30</td>
@@ -121,7 +121,7 @@ title: Program
         </tr>
         <tr>
             <td class="time-cell">13:30</td>
-            <td class="talk medium-session">Contributed Talk: TBA — Rafal Wisniewski</td>
+            <td class="talk medium-session">Contributed Talk: <i>Detecting adversarial audio in deep speech systems</i> — Zheng-Hua Tan</td>
         </tr>
         <tr>
             <td class="time-cell">14:00</td>
