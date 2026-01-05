@@ -108,7 +108,7 @@ Anomalous Sound Detection (ASD) is a vital research field aimed at identifying a
 </div>
 
 <div class="profile-container">
-    <img src="assets/img/photos/rafal.jpg" alt="Rafal" class="profile-image">
+    <img src="assets/img/photos/rafal.png" alt="Rafal" class="profile-image">
     <div class="profile-info">
         <h2 class="profile-name">Rafal Wisniewski</h2>
         <p class="profile-affiliation">Professor, Aalborg University (Denmark)</p>
