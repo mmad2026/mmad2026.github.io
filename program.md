@@ -58,19 +58,20 @@ title: Program
         }
 
         .schedule-table tr {
-            display: block;
+            /*display: block;*/
             margin-bottom: 10px;
             border: 1px solid #ddd;
         }
 
-        .schedule-table td {
+        /*.schedule-table td {
             display: block;
             width: 100%;
-        }
+        }*/
 
         .time-cell {
             background-color: #3498db;
             color: white;
+            width: 70px;
         }
 
         .short-session, .medium-session, .long-session {
