@@ -90,7 +90,7 @@ title: Program
     <tbody>
         <tr>
             <td class="time-cell">9:00</td>
-            <td class="startend short-session">Registration</td>
+            <td class="startend short-session">Registration and Breakfast</td>
         </tr>
         <tr>
             <td class="time-cell">9:30</td>
