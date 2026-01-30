@@ -98,11 +98,11 @@ title: Program
         </tr>
         <tr>
             <td class="time-cell">9:45</td>
-            <td class="keynote medium-session">Keynote: "<i>Scalable real-time abnormal event detection</i>" — Radu Ionescu</td>
+            <td class="keynote medium-session">Keynote: <i>Privacy preserving video surveillance and detecting anomalies where it matters most</i> — Kamal Nasrollahi</td>
         </tr>
         <tr>
             <td class="time-cell">10:30</td>
-            <td class="keynote medium-session">Keynote: <i>Privacy preserving video surveillance and detecting anomalies where it matters most</i> — Kamal Nasrollahi</td>
+            <td class="keynote medium-session">Keynote: "<i>Scalable real-time abnormal event detection</i>" — Radu Ionescu</td>
         </tr>
         <tr>
             <td class="time-cell">11:15</td>
