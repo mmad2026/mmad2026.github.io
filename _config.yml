@@ -34,6 +34,7 @@ navbar-links:
   Venue: "venue"
   Organization: "organization"
   Sponsors: "sponsors"
+  Previous: "previous"
 
 title-on-all-pages: true
 excerpt_length: 50
