@@ -97,3 +97,27 @@ More to be announced.
         </p>
     </div>
 </div>
+
+<div class="profile-container">
+    <img src="assets/img/photos/latha.jpg" alt="Latha" class="profile-image" />
+    <div class="profile-info">
+        <h2 class="profile-name">Latha Pemula <a href="https://sites.google.com/view/latha-pemula/home"><img src="assets/img/globe.png" class="link" /></a></h2>
+        <p class="profile-affiliation">Applied Scientist at AWS AILabs (USA)</p>
+        <p class="talk-title">TBA</p>
+        <p class="talk-summary">
+        TBA
+        </p>
+    </div>
+</div>
+
+<div class="profile-container">
+    <img src="assets/img/photos/unspecified.png" alt="Tomoya" class="profile-image" />
+    <div class="profile-info">
+        <h2 class="profile-name">Tomoya Nishida</h2>
+        <p class="profile-affiliation">Hitachi (Japan)</p>
+        <p class="talk-title">TBA</p>
+        <p class="talk-summary">
+        TBA
+        </p>
+    </div>
+</div>
