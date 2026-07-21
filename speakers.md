@@ -121,3 +121,15 @@ More to be announced.
         </p>
     </div>
 </div>
+
+<div class="profile-container">
+    <img src="assets/img/photos/veronika.jpeg" alt="Veronika" class="profile-image" />
+    <div class="profile-info">
+        <h2 class="profile-name">Veronika Cheplygina <a href="https://purrlab.github.io/"><img src="assets/img/globe.png" class="link" /></a></h2>
+        <p class="profile-affiliation">Professor, IT University of Copenhagen (Denmark)</p>
+        <p class="talk-title">Curious findings about medical image datasets</p>
+        <p class="talk-summary">
+        It may seem intuitive that we need high quality datasets to ensure for robust algorithms for medical image classification. With the introduction of openly available, larger datasets, it might seem that the problem has been solved. However, this is far from being the case, as it turns out that even these datasets suffer from issues like label noise and shortcuts or confounders. Furthermore, there are behaviours in our research community that threaten the validity of published findings. In this talk I will discuss both types of issues with examples from recent papers.
+        </p>
+    </div>
+</div>
